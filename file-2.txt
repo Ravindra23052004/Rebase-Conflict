@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello i am ravindra.here i am 
 creating file-2.txt in github
+=======
+hello i am creating file-2.txt in
+feature_branch
+>>>>>>> 7a122e2 (my commit-1)
